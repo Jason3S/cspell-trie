@@ -1,6 +1,9 @@
 # cspell-trie
 Trie library for use with cspell
 
+**Deprecated** Moved to [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell#packages)
+
+
 This library allows easily building of a [Trie](https://en.wikipedia.org/wiki/Trie)
 from a word list.
 
